@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @SalFin99
-- 👀 I’m interested in climate and resource economics and circular economy
-- 🌱 I’m currently learning Python for applied econometrics
-- 📫 How to reach me salfinizio.99@gmail.com
+- 👋 Hi, I’m Salvatore and I study resource economics
+
 
 <!---
 SalFin99/SalFin99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
